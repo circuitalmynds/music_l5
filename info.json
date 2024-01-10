@@ -1,5 +1,237 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": " - copy (1)",
+            "name": "Juventino Rosas - Josefina - Vals [Ug0gCyJWrYw] - copy (1).mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Juventino Rosas - Josefina - Vals [Ug0gCyJWrYw] - copy (1).mp4",
+            "size": 11.241748,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Juventino Rosas - Josefina - Vals [Ug0gCyJWrYw] - copy (1).mp4"
+        },
+        {
+            "id": "cJXtupwb1aA",
+            "name": "Ron Carter - Spanish Blue (1975)  {FULL ALBUM} [cJXtupwb1aA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Ron Carter - Spanish Blue (1975)  {FULL ALBUM} [cJXtupwb1aA].mp4",
+            "size": 51.26249,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Ron Carter - Spanish Blue (1975)  {FULL ALBUM} [cJXtupwb1aA].mp4"
+        },
+        {
+            "id": " - copy (1)",
+            "name": "Igor Stravinsky - Capriccio per pianoforte e orchestra (1929) [i7XqkCIL6yE] - copy (1).mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Igor Stravinsky - Capriccio per pianoforte e orchestra (1929) [i7XqkCIL6yE] - copy (1).mp4",
+            "size": 40.519262,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Igor Stravinsky - Capriccio per pianoforte e orchestra (1929) [i7XqkCIL6yE] - copy (1).mp4"
+        },
+        {
+            "id": "0oYoRg6Ws9U",
+            "name": "Underworld - Juanita\u29f8Kiteless\u29f8To Dream of Love [0oYoRg6Ws9U].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Underworld - Juanita\u29f8Kiteless\u29f8To Dream of Love [0oYoRg6Ws9U].mp4",
+            "size": 8.536318,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Underworld - Juanita\u29f8Kiteless\u29f8To Dream of Love [0oYoRg6Ws9U].mp4"
+        },
+        {
+            "id": "hk8ul2uJA5E",
+            "name": "Miami Sound Machine - Bad Boy (official video reworked) [hk8ul2uJA5E].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Miami Sound Machine - Bad Boy (official video reworked) [hk8ul2uJA5E].mp4",
+            "size": 13.206878999999999,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Miami Sound Machine - Bad Boy (official video reworked) [hk8ul2uJA5E].mp4"
+        },
+        {
+            "id": "ITswHbJPHhQ",
+            "name": "Richard Clayderman - Love Story [ITswHbJPHhQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Richard Clayderman - Love Story [ITswHbJPHhQ].mp4",
+            "size": 10.082348999999999,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Richard Clayderman - Love Story [ITswHbJPHhQ].mp4"
+        },
+        {
+            "id": "tbKkh5dXcDY",
+            "name": "The Complete Garage Days - Metallica (Full Album) [tbKkh5dXcDY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/The Complete Garage Days - Metallica (Full Album) [tbKkh5dXcDY].mp4",
+            "size": 88.04312399999999,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/The Complete Garage Days - Metallica (Full Album) [tbKkh5dXcDY].mp4"
+        },
+        {
+            "id": "uTegBjrZ4IQ",
+            "name": "Tea For Two (Original 1925 Orchestraion) - Jason Graae & Rebecca Luker [uTegBjrZ4IQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Tea For Two (Original 1925 Orchestraion) - Jason Graae & Rebecca Luker [uTegBjrZ4IQ].mp4",
+            "size": 14.951678999999999,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Tea For Two (Original 1925 Orchestraion) - Jason Graae & Rebecca Luker [uTegBjrZ4IQ].mp4"
+        },
+        {
+            "id": "xZ5iPTcooxI",
+            "name": "Sidney Bechet + Louis Armstrong + Django Reinhardt 1952, La Route Du Bonheur (excerpt) [xZ5iPTcooxI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Sidney Bechet + Louis Armstrong + Django Reinhardt 1952, La Route Du Bonheur (excerpt) [xZ5iPTcooxI].mp4",
+            "size": 22.793561999999998,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Sidney Bechet + Louis Armstrong + Django Reinhardt 1952, La Route Du Bonheur (excerpt) [xZ5iPTcooxI].mp4"
+        },
+        {
+            "id": "NtLaCW-ctCM",
+            "name": "Tangui - Amour Combat (Italo-Disco) [NtLaCW-ctCM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Tangui - Amour Combat (Italo-Disco) [NtLaCW-ctCM].mp4",
+            "size": 7.290119,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Tangui - Amour Combat (Italo-Disco) [NtLaCW-ctCM].mp4"
+        },
+        {
+            "id": "RthuLePDo3A",
+            "name": "Paul Hindemith - Symphonic Metamorphosis (1943)-RthuLePDo3A.mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Paul Hindemith - Symphonic Metamorphosis (1943)-RthuLePDo3A.mp4",
+            "size": 15.073609999999999,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Paul Hindemith - Symphonic Metamorphosis (1943)-RthuLePDo3A.mp4"
+        },
+        {
+            "id": "U2pb_z3cfVU",
+            "name": "Fela Kuti (Nigeria, 1971) -  Na Poi (Full Album) [U2pb_z3cfVU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Fela Kuti (Nigeria, 1971) -  Na Poi (Full Album) [U2pb_z3cfVU].mp4",
+            "size": 37.339959,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Fela Kuti (Nigeria, 1971) -  Na Poi (Full Album) [U2pb_z3cfVU].mp4"
+        },
+        {
+            "id": "miUKO5g0ONk",
+            "name": "Shakuhachi  [The Japanese Flute] - Kohachiro Miyata (Full)-miUKO5g0ONk.mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Shakuhachi  [The Japanese Flute] - Kohachiro Miyata (Full)-miUKO5g0ONk.mp4",
+            "size": 43.788094,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Shakuhachi  [The Japanese Flute] - Kohachiro Miyata (Full)-miUKO5g0ONk.mp4"
+        },
+        {
+            "id": "w67-hlaUSIs",
+            "name": "Violeta Parra \uff02Gracias a la vida\uff02 [w67-hlaUSIs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Violeta Parra \uff02Gracias a la vida\uff02 [w67-hlaUSIs].mp4",
+            "size": 9.998049,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Violeta Parra \uff02Gracias a la vida\uff02 [w67-hlaUSIs].mp4"
+        },
+        {
+            "id": "tq3FITI2pU0",
+            "name": "Liszt's \uff02Grand Galop Chromatique\uff02 Audio + Sheet Music [tq3FITI2pU0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Liszt's \uff02Grand Galop Chromatique\uff02 Audio + Sheet Music [tq3FITI2pU0].mp4",
+            "size": 8.084632,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Liszt's \uff02Grand Galop Chromatique\uff02 Audio + Sheet Music [tq3FITI2pU0].mp4"
+        },
+        {
+            "id": "MXHSoXQoNsM",
+            "name": "Tommy McCook & The Aggrovators - King Tubby Meets The Aggrovators At Dub Station (Full Album) [MXHSoXQoNsM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Tommy McCook & The Aggrovators - King Tubby Meets The Aggrovators At Dub Station (Full Album) [MXHSoXQoNsM].mp4",
+            "size": 90.41273,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Tommy McCook & The Aggrovators - King Tubby Meets The Aggrovators At Dub Station (Full Album) [MXHSoXQoNsM].mp4"
+        },
+        {
+            "id": "b5Pn1X1_a64",
+            "name": "George Enescu - Ciocarlia [b5Pn1X1_a64].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/George Enescu - Ciocarlia [b5Pn1X1_a64].mp4",
+            "size": 2.172637,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/George Enescu - Ciocarlia [b5Pn1X1_a64].mp4"
+        },
+        {
+            "id": "FYvALGje3l4",
+            "name": "Kissing The Kiss - Run Stop (1987) [FYvALGje3l4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Kissing The Kiss - Run Stop (1987) [FYvALGje3l4].mp4",
+            "size": 14.472320999999999,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Kissing The Kiss - Run Stop (1987) [FYvALGje3l4].mp4"
+        },
+        {
+            "id": "vx5Hl7jQ9xE",
+            "name": "Karel Komz\u00e1k II - An der Sch\u00f6nen Gr\u00fcnen Narenta,Walzer Op.227 [vx5Hl7jQ9xE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Karel Komz\u00e1k II - An der Sch\u00f6nen Gr\u00fcnen Narenta,Walzer Op.227 [vx5Hl7jQ9xE].mp4",
+            "size": 9.392365,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Karel Komz\u00e1k II - An der Sch\u00f6nen Gr\u00fcnen Narenta,Walzer Op.227 [vx5Hl7jQ9xE].mp4"
+        },
+        {
+            "id": "kJCELGBklm8",
+            "name": "Hortense Ellis - I'm Just A Girl [kJCELGBklm8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Hortense Ellis - I'm Just A Girl [kJCELGBklm8].mp4",
+            "size": 9.929172999999999,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Hortense Ellis - I'm Just A Girl [kJCELGBklm8].mp4"
+        },
+        {
+            "id": "KDMOkgSdy3E",
+            "name": "Willie The Lion Smith - Fingerbuster [KDMOkgSdy3E].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Willie The Lion Smith - Fingerbuster [KDMOkgSdy3E].mp4",
+            "size": 7.044051,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Willie The Lion Smith - Fingerbuster [KDMOkgSdy3E].mp4"
+        },
+        {
+            "id": "Q-fvsnLocBM",
+            "name": "Linda Ronstadt - La Charreada 1989 live performance [Q-fvsnLocBM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Linda Ronstadt - La Charreada 1989 live performance [Q-fvsnLocBM].mp4",
+            "size": 11.627455999999999,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Linda Ronstadt - La Charreada 1989 live performance [Q-fvsnLocBM].mp4"
+        },
+        {
+            "id": "vTfwsRiSTlU",
+            "name": "Hally & Kongo Band - Afrikan Man (12\uff02 Version) [vTfwsRiSTlU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Hally & Kongo Band - Afrikan Man (12\uff02 Version) [vTfwsRiSTlU].mp4",
+            "size": 20.778684,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Hally & Kongo Band - Afrikan Man (12\uff02 Version) [vTfwsRiSTlU].mp4"
+        },
+        {
+            "id": "U-u33i1M0fI",
+            "name": "Stravinsky Conducts The Firebird Suite, Japan 1959 [U-u33i1M0fI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Stravinsky Conducts The Firebird Suite, Japan 1959 [U-u33i1M0fI].mp4",
+            "size": 67.940773,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Stravinsky Conducts The Firebird Suite, Japan 1959 [U-u33i1M0fI].mp4"
+        },
+        {
+            "id": "Y0FUMlmeNqA",
+            "name": "Amparo Ochoa - Te Quiero (Barcelona, 1979) [Y0FUMlmeNqA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Amparo Ochoa - Te Quiero (Barcelona, 1979) [Y0FUMlmeNqA].mp4",
+            "size": 16.66959,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Amparo Ochoa - Te Quiero (Barcelona, 1979) [Y0FUMlmeNqA].mp4"
+        },
+        {
+            "id": "miUKO5g0ONk",
+            "name": "Shakuhachi  [The Japanese Flute] - Kohachiro Miyata (Full) [miUKO5g0ONk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Shakuhachi  [The Japanese Flute] - Kohachiro Miyata (Full) [miUKO5g0ONk].mp4",
+            "size": 43.788094,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Shakuhachi  [The Japanese Flute] - Kohachiro Miyata (Full) [miUKO5g0ONk].mp4"
+        },
+        {
+            "id": "Vr9XHsfEqVk",
+            "name": "En La Memoria DE ERNESTO LECUONA & AL PIANO ENRIQUE CHIA    POEMA A LECUONA [Vr9XHsfEqVk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/En La Memoria DE ERNESTO LECUONA & AL PIANO ENRIQUE CHIA    POEMA A LECUONA [Vr9XHsfEqVk].mp4",
+            "size": 52.541069,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/En La Memoria DE ERNESTO LECUONA & AL PIANO ENRIQUE CHIA    POEMA A LECUONA [Vr9XHsfEqVk].mp4"
+        },
+        {
+            "id": "Mya0bUfjG5E",
+            "name": "Mendelssohn Italian Symphony (Herbert von Karajan) [Mya0bUfjG5E].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Mendelssohn Italian Symphony (Herbert von Karajan) [Mya0bUfjG5E].mp4",
+            "size": 13.56377,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Mendelssohn Italian Symphony (Herbert von Karajan) [Mya0bUfjG5E].mp4"
+        },
+        {
+            "id": "yLBFeoikELo",
+            "name": "Charles Trenet - BOUM [yLBFeoikELo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Charles Trenet - BOUM [yLBFeoikELo].mp4",
+            "size": 3.78469,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Charles Trenet - BOUM [yLBFeoikELo].mp4"
+        },
+        {
+            "id": "FYvALGje3l4",
+            "name": "Kissing The Kiss - Run Stop (1987)-FYvALGje3l4.mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Kissing The Kiss - Run Stop (1987)-FYvALGje3l4.mp4",
+            "size": 14.472320999999999,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Kissing The Kiss - Run Stop (1987)-FYvALGje3l4.mp4"
+        },
+        {
+            "id": "raFIM3To_sU",
+            "name": "Medtner - Piano Concerto No. 1 (Tozer) [500 subs special] [raFIM3To_sU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Medtner - Piano Concerto No. 1 (Tozer) [500 subs special] [raFIM3To_sU].mp4",
+            "size": 94.738118,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Medtner - Piano Concerto No. 1 (Tozer) [500 subs special] [raFIM3To_sU].mp4"
+        },
+        {
+            "id": "UU1NiRIAlXc",
+            "name": "Corrido de la muerte de Emiliano Zapata, Amparo Ochoa [UU1NiRIAlXc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Corrido de la muerte de Emiliano Zapata, Amparo Ochoa [UU1NiRIAlXc].mp4",
+            "size": 11.548089,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Corrido de la muerte de Emiliano Zapata, Amparo Ochoa [UU1NiRIAlXc].mp4"
+        },
+        {
+            "id": "OFfYGoVstgc",
+            "name": "Pachelbel Canon en Re Mayor-RTVE (Adrian leaper) Orquesta sinfonica Navidad 2008 [OFfYGoVstgc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/l5/videos/Pachelbel Canon en Re Mayor-RTVE (Adrian leaper) Orquesta sinfonica Navidad 2008 [OFfYGoVstgc].mp4",
+            "size": 18.898049999999998,
+            "url": "https://github.com/circuitalmynds/music_l5/raw/main/videos/Pachelbel Canon en Re Mayor-RTVE (Adrian leaper) Orquesta sinfonica Navidad 2008 [OFfYGoVstgc].mp4"
+        }
+    ],
+    "total_size": 885.9858549999999
 }
